@@ -1,4 +1,4 @@
-# CS643-Smart-Sleeve-Project
+# Smart-Sleeve-Project
 
 To run this code:
 1) Install Arduino IDE.
